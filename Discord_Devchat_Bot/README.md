@@ -7,3 +7,6 @@ Join("ThekayzChat")
 ## 3.Step
 
 Say("Say Something!!!", "ThekayzChat")
+
+
+### Discord Link: https://discord.gg/M2qV9pEAtv
